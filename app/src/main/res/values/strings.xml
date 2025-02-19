@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">MuseumsMoscow</string>
+    <string-array name="museums">
+        <item>Третьяковская галерея</item>
+        <item>Музей-заповедник Царицыно</item>
+        <item>Музей-заповедник "Коломенское"</item>
+        <item>Музей космонавтики</item>
+        <item>Усадьба Кусково</item>
+        <item>Музей изобразительных искусств им. А.С. Пушкина</item>
+        <item>Дарвиновский музей</item>
+        <item>Новая Третьяковка</item>
+        <item>Музей Занимательных Наук Экспериментаниум</item>
+        <item>Палеонтологический музей им. Ю.А. Орлова</item>
+        <item>Парк Музеон</item>
+        <item>Московский планетарий</item>
+        <item>Музей Холодной войны Бункер-42 на Таганке</item>
+        <item>Государственный музей А.С. Пушкина на Пречистенке</item>
+        <item>Оружейная палата</item>
+    </string-array>
+
+    <string-array name="addresses">
+        <item>Лаврушинский пер., 10</item>
+        <item>ул. Дольская, 1</item>
+        <item>просп. Андропова, 39</item>
+        <item>просп. Мира, 111</item>
+        <item>ул. Юности, 2</item>
+        <item>ул. Волхонка, 12</item>
+        <item>ул. Вавилова, 57</item>
+        <item>ул. Крымский Вал, 10</item>
+        <item>ул. Бутырская, 46/2</item>
+        <item>ул. Профсоюзная, 123</item>
+        <item>ул. Крымский Вал, 2</item>
+        <item>ул. Садовая-Кудринская, 5</item>
+        <item>ул. 5-я Кожуховская, 11</item>
+        <item>ул. Пречистенка, 12</item>
+        <item>Кремль, 1</item>
+    </string-array>
+
+    <string-array name="phones">
+        <item>+7 495 951-13-36</item>
+        <item>+7 499 725-72-80</item>
+        <item>+7 499 615-27-68</item>
+        <item>+7 495 683-79-68</item>
+        <item>+7 495 375-31-31</item>
+        <item>+7 495 697-95-78</item>
+        <item>+7 499 132-02-51</item>
+        <item>+7 495 953-70-78</item>
+        <item>+7 499 750-00-75</item>
+        <item>+7 495 339-45-00</item>
+        <item>+7 495 232-21-23</item>
+        <item>+7 495 221-76-90</item>
+        <item>+7 495 123-45-67</item>
+        <item>+7 495 637-56-75</item>
+        <item>+7 495 695-37-76</item>
+    </string-array>
+
+    <string-array name="websites">
+        <item>https://www.tretyakovgallery.ru</item>
+        <item>https://tsaritsyno-museum.ru</item>
+        <item>https://www.mgomz.ru</item>
+        <item>https://www.kosmo-museum.ru</item>
+        <item>https://www.kuskovo.ru</item>
+        <item>https://www.arts-museum.ru</item>
+        <item>https://www.darwinmuseum.ru</item>
+        <item>https://www.tretyakovgallery.ru</item>
+        <item>https://experimentanium.ru</item>
+        <item>https://www.paleo.ru</item>
+        <item>https://www.muzeon.ru</item>
+        <item>https://www.planetarium-moscow.ru</item>
+        <item>https://www.bunker42.com</item>
+        <item>https://www.pushkinmuseum.ru</item>
+        <item>https://www.kreml.ru</item>
+    </string-array>
+
+    <string-array name="images">
+        <item>museum1</item>
+        <item>museum2</item>
+        <item>museum3</item>
+        <item>museum4</item>
+        <item>museum5</item>
+        <item>museum6</item>
+        <item>museum7</item>
+        <item>museum8</item>
+        <item>museum9</item>
+        <item>museum10</item>
+        <item>museum11</item>
+        <item>museum12</item>
+        <item>museum13</item>
+        <item>museum14</item>
+        <item>museum15</item>
+    </string-array>
+</resources>

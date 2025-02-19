@@ -1,0 +1,107 @@
+[
+    {
+      "name": "Третьяковская галерея",
+      "image": "tretyakovka",
+      "address": "Лаврушинский пер., 10",
+      "phone": "+7 495 957-07-27",
+      "website": "https://www.tretyakovgallery.ru"
+    },
+    {
+      "name": "Музей Космонавтики",
+      "image": "kosmonavtiki",
+      "address": "пр-т Мира, 111, Москва",
+      "phone": "+7 499 750-23-00",
+      "website": "https://www.kosmo-museum.ru"
+    },
+    {
+      "name": "Музей-заповедник Царицыно",
+      "image": "tsaritsyno",
+      "address": "ул. Дольская, 1",
+      "phone": "+7 499 725-72-80",
+      "website": "https://tsaritsyno-museum.ru"
+    },
+    {
+      "name": "Музей-заповедник Коломенское",
+      "image": "kolomenskoe",
+      "address": "просп. Андропова, 39",
+      "phone": "+7 499 615-27-68",
+      "website": "https://www.mgomz.ru"
+    },
+    {
+      "name": "Усадьба Кусково",
+      "image": "kuskovo",
+      "address": "ул. Юности, 2",
+      "phone": "+7 495 375-31-31",
+      "website": "https://www.kuskovo.ru"
+    },
+    {
+      "name": "Музей изобразительных искусств им. А.С. Пушкина",
+      "image": "pushkinskiy",
+      "address": "ул. Волхонка, 12",
+      "phone": "+7 495 697-95-78",
+      "website": "https://www.arts-museum.ru"
+    },
+    {
+      "name": "Дарвиновский музей",
+      "image": "darvin",
+      "address": "ул. Вавилова, 57",
+      "phone": "+7 499 132-02-51",
+      "website": "https://www.darwinmuseum.ru"
+    },
+    {
+      "name": "Новая Третьяковка",
+      "image": "nov_tretyakovka",
+      "address": "ул. Крымский Вал, 10",
+      "phone": "+7 495 953-70-78",
+      "website": "https://www.tretyakovgallery.ru"
+    },
+    {
+      "name": "Музей Занимательных Наук Экспериментаниум",
+      "image": "eksp",
+      "address": "ул. Бутырская, 46/2",
+      "phone": "+7 499 750-00-75",
+      "website": "https://experimentanium.ru"
+    },
+    {
+      "name": "Палеонтологический музей им. Ю.А. Орлова",
+      "image": "paleontolog",
+      "address": "ул. Профсоюзная, 123",
+      "phone": "+7 495 232-21-23",
+      "website": "https://www.paleo.ru"
+    },
+    {
+      "name": "Парк Музеон",
+      "image": "muzeon",
+      "address": "ул. Крымский Вал, 2",
+      "phone": "+7 495 221-76-90",
+      "website": "https://www.muzeon.ru"
+    },
+    {
+      "name": "Московский планетарий",
+      "image": "planet",
+      "address": "ул. Садовая-Кудринская, 5",
+      "phone": "+7 495 123-45-67",
+      "website": "https://www.planetarium-moscow.ru"
+    },
+    {
+      "name": "Музей Холодной войны Бункер-42 на Таганке",
+      "image": "taganka",
+      "address": "ул. 5-я Кожуховская, 11",
+      "phone": "+7 495 637-56-75",
+      "website": "https://www.bunker42.ru"
+    },
+    {
+      "name": "Государственный музей А.С. Пушкина на Пречистенке",
+      "image": "prechistenka",
+      "address": "ул. Пречистенка, 12",
+      "phone": "+7 495 695-37-76",
+      "website": "https://www.pushkinmuseum.ru"
+    },
+    {
+      "name": "Оружейная палата",
+      "image": "or_palata",
+      "address": "Кремль, 1",
+      "phone": "+7 495 951-13-36",
+      "website": "https://www.kreml.ru"
+    }
+  ]
