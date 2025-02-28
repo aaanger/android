@@ -24,6 +24,19 @@
         android:shadowDy="1"
         android:shadowRadius="3"
         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Ангер Артем РИБО-02-22"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="3"
+        />
 
     <EditText
         android:id="@+id/login"
