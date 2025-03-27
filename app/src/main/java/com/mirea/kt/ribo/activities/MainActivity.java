@@ -50,26 +50,29 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Authenticate(String login, String password) {
-        int result = 0;
         String server = "https://android-for-students.ru";
         String serverPath = "/coursework/login.php";
         HashMap<String,String> map = new HashMap<>();
+
         map.put("lgn", login);
         map.put("pwd", password);
         map.put("g", "RIBO-02-22");
+
         HTTPRunnable httpRunnable = new HTTPRunnable(server + serverPath, map);
+
         Thread th = new Thread(httpRunnable);
         th.start();
+
         try {
             th.join();
         }
         catch (Exception err) {
-            Log.e("HTTPRunnable", "JSONException" + err);;
+            Log.e("HTTPRunnable", "JSONException" + err);
         }
         finally {
             try {
                 JSONObject res = new JSONObject(httpRunnable.getResponseBody());
-                result = res.getInt("result_code");
+                int result = res.getInt("result_code");
                 if (result == 1) {
                     saveUserAuthentication();
                     Intent intent = new Intent(this, MainPage.class);

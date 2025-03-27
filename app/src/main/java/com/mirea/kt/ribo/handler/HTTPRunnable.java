@@ -54,10 +54,10 @@ public class HTTPRunnable implements Runnable {
                     responseBody = sbResponse.toString();
                 }
                 else {
-                    System.out.println("Error: response code %d" + responseCode);
+                    System.out.printf("Error: response code %d", responseCode);
                 }
             } catch(IOException err) {
-
+                System.out.println(err.getMessage());
             }
         }
     }
@@ -74,7 +74,7 @@ public class HTTPRunnable implements Runnable {
                     sbParams.append(key).append("=")
                             .append(URLEncoder.encode(this.requestBody.get(key), "UTF-8"));
                 } catch (UnsupportedEncodingException err) {
-
+                    System.out.println(err.getMessage());
                 }
                 i++;
             }
